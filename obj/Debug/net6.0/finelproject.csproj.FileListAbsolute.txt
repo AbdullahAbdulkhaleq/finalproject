@@ -1,0 +1,17 @@
+C:\Project\OOP\finelproject\finelproject\bin\Debug\net6.0\finelproject.exe
+C:\Project\OOP\finelproject\finelproject\bin\Debug\net6.0\finelproject.deps.json
+C:\Project\OOP\finelproject\finelproject\bin\Debug\net6.0\finelproject.runtimeconfig.json
+C:\Project\OOP\finelproject\finelproject\bin\Debug\net6.0\finelproject.dll
+C:\Project\OOP\finelproject\finelproject\bin\Debug\net6.0\finelproject.pdb
+C:\Project\OOP\finelproject\finelproject\obj\Debug\net6.0\finelproject.csproj.AssemblyReference.cache
+C:\Project\OOP\finelproject\finelproject\obj\Debug\net6.0\finelproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\OOP\finelproject\finelproject\obj\Debug\net6.0\finelproject.AssemblyInfoInputs.cache
+C:\Project\OOP\finelproject\finelproject\obj\Debug\net6.0\finelproject.AssemblyInfo.cs
+C:\Project\OOP\finelproject\finelproject\obj\Debug\net6.0\finelproject.csproj.CoreCompileInputs.cache
+C:\Project\OOP\finelproject\finelproject\obj\Debug\net6.0\finelproject.dll
+C:\Project\OOP\finelproject\finelproject\obj\Debug\net6.0\ref\finelproject.dll
+C:\Project\OOP\finelproject\finelproject\obj\Debug\net6.0\finelproject.pdb
+C:\Project\OOP\finelproject\finelproject\obj\Debug\net6.0\finelproject.genruntimeconfig.cache
+C:\Project\OOP\finelproject\finelproject\bin\Debug\net6.0\ConsoleTables.dll
+C:\Project\OOP\finelproject\finelproject\obj\Debug\net6.0\finelproject.csproj.CopyComplete
+C:\Project\OOP\finelproject\finelproject\obj\Debug\net6.0\refint\finelproject.dll
